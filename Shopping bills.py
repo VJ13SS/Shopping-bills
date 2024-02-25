@@ -11,6 +11,8 @@ Functions:
 - generate_bill(): Generates a bill receipt for the customer's purchase and updates the collection record.
 - main(): Acts as the entry point, allowing users to choose between generating a bill or retrieving the total collection.
 
+The prices provided here are for reference only
+
 This is a simple python script which deals with functions,file handlings,exception handling,etc and i had made it as simple in the way i could.
 The code can be modified to a great extend...feel free to do the same.
 
