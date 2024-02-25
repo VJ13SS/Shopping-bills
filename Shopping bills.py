@@ -14,7 +14,7 @@ Functions:
 This is a simple python script which deals with functions,file handlings,exception handling,etc and i had made it as simple in the way i could.
 The code can be modified to a great extend...feel free to do the same.
 
-Lets have a challeng..
+Lets have a challenge..
 get_total_collection() function is defined here..but there is a small mistake in the logic.
 Try to check it
 
